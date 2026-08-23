@@ -34,7 +34,7 @@ El sistema recibe una consulta, la registra, interpreta la intención mediante I
 - 📸 [Screenshots](./SCREENSHOT)
 
 ## 📊 Base de datos
-
+https://airtable.com/invite/l?inviteId=invtA3wgncHVr1XRq&inviteToken=4216572f4b031a2275bfebd050579d23800f6e017073ab9bf15942c17e5cd69c&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
 La información se gestiona mediante Airtable, utilizando tablas para:
 
 - Stock de productos
